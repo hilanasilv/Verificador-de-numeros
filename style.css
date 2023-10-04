@@ -1,0 +1,24 @@
+body{
+    background-color: darkgray;
+    font-family: Open, Serif;
+}
+
+h1{
+    text-align: center;
+    font-style: unset;
+    color:bisque;
+    font-size:60px;
+}
+
+div{
+    text-align: center;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+.img{
+    height: 80px;
+}
+
